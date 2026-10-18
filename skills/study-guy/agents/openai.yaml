@@ -1,0 +1,4 @@
+interface:
+  display_name: "Study Guy｜小镇做题家学案"
+  short_description: "批量消化课件与讲义，生成预习复习学案、分层练习、解析和错题回炉计划"
+  default_prompt: "用 $study-guy 把这些 PPT 和 lecture 材料整理成中文学案，保留英文术语，题目与答案分开，附来源和复习安排。"

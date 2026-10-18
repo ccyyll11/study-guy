@@ -1,0 +1,16 @@
+# Local course inputs and generated student records do not belong in this repo.
+materials/
+private/
+outputs/
+*.ppt
+*.pptx
+*.pdf
+*.docx
+*.mp3
+*.mp4
+*.zip
+.env
+.env.*
+__pycache__/
+.DS_Store
+Thumbs.db
